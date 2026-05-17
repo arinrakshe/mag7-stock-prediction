@@ -2,6 +2,9 @@
 
 Predicts next-day closing prices for the MAG7 stocks (AAPL, AMZN, GOOGL, META, MSFT, NVDA, TSLA) using XGBoost on engineered technical indicators.
 
+🎥 Project Presentation
+https://docs.google.com/presentation/d/1lp_ubH0ReNX8TxDw9DBG1jI0Ubdq5y0Ewxzv0O4-D6U/edit?usp=sharing
+
 ## What it does
 
 1. Downloads 10 years of daily price history (2015–2024) from Yahoo Finance.
